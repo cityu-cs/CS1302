@@ -1,0 +1,4 @@
+otter-grader==4.0.0
+jupytext
+ipywidgets==7.*
+divewidgets
