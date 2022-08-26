@@ -1,3 +1,7 @@
+main*.zip
+main.py
+.OTTER_LOG
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
