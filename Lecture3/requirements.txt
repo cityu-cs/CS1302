@@ -1,0 +1,2 @@
+ipywidgets==7.*
+divewidgets
