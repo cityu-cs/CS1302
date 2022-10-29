@@ -1,0 +1,5 @@
+otter-grader
+jupytext
+ipywidgets==7.*
+divewidgets
+numpy
