@@ -1,0 +1,4 @@
+ipywidgets==7.*
+divewidgets
+numpy
+pandas
